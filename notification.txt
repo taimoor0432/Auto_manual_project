@@ -1,4 +1,7 @@
-{ text = 1.2
-!Welcome to SpideyHax!
-Pubg Mobile V4.7.0
-Secure & Stable }
+v1.2
+text = !Welcome to SpideyHax! Pubg Mobile V4.7.0 Secure & Stable
+global = true
+korean = false
+tawin = true
+vinam = true
+end
