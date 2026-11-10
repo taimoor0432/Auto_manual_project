@@ -1,7 +1,7 @@
-v1.3
-text = SpideyHax Pubg Mobile V4.7.0 Secure & Stable
-global = false
-korean = true
-tawin = true
-vinam = true
+v1.4
+text = !Welcome to SpideyHax! PUBG Mobile V4.7.0
+global = true
+korea = true
+taiwan = true
+vietnam = true
 end
