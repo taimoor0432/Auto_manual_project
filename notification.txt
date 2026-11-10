@@ -1,3 +1,4 @@
-{ text = 1.1
+{ text = 1.2
 !Welcome to SpideyHax!
-Pubg Mobile V4.7.0 is now live and fully secure. }
+Pubg Mobile V4.7.0
+Secure & Stable }
