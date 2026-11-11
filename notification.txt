@@ -1,9 +1,10 @@
-v1.8
+v1.9
 text = SpideyHax PUBG Mobile V4.6.0
 global = false
 korea = true
 taiwan = m
 vietnam = true
-telegram = spam
-telegramLink = https://t.me/fatalgrid
+telegram = true
+telegramLink = https://t.me/SpideyHax
+telegramName = SpideyHax
 end
