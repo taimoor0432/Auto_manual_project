@@ -1,10 +1,10 @@
-v2.3
-text =  Fuck Lux, Fuck Kutta, Fuck ByDowz, Fuck Zyvant, Real Pro Developer Only Minionscheats PAKISTAN ZINDABAD TURKEY ZINDABAD BANGLADESH ZINDABAD
+v2.4
+text = SpideyHax Pubg Mobile 4.7.0, New Updates Coming Soon. Regarding @fatalgrid
 global = true
 korea = true
 taiwan = true
 vietnam = true
-telegram = spam
+telegram = false
 telegramLink = https://t.me/SpideyHax
 telegramName = SpideyHax
 end
