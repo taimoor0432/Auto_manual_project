@@ -1,4 +1,4 @@
-v1.6
+v1.7
 text = SpideyHax PUBG Mobile V4.6.0
 global = false
 korea = true
