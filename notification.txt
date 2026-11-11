@@ -1,4 +1,4 @@
-v1.9
+v2.0
 text = chutiye sahi se khelna game Kyunki tum log brutal khelte ho aur Ban aata hai aur screenshot dene a Jaate Ho chutiye Kahenge. aur jab Mar Jaega na to Kahenge Mar Gaya madrachod lala lala lala Ek Din Mar Jayega kutte Ki Maut Jag Mein Sab Kahenge Mar Gaya. Or suna shubham mayura
 global = false
 korea = true
