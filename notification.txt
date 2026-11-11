@@ -1,7 +1,7 @@
-v1.4
-text = !Welcome to SpideyHax! PUBG Mobile V4.7.0
-global = true
+v1.5
+text = SpideyHax PUBG Mobile V4.7.0
+global = false
 korea = true
-taiwan = true
+taiwan = false
 vietnam = true
 end
