@@ -1,5 +1,5 @@
-v1.1
-text = shubham mayura Betaaaaaaaaa. Play safe Okeyyyyyy
+v1.2
+text = Pubg Mobile V4.6.0 - For More Updates Join Our Telegram @SpideyHax 
 global = false
 korea = true
 taiwan = m
