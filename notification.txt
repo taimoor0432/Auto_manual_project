@@ -1,5 +1,5 @@
-v2.7
-text = SpideyHax PUBG Mobile V4.6.0
+v2.8
+text = SpideyHax PUBG Mobile V4.7.0! Be Ready Girls & Boys.
 global = true
 korea = true
 taiwan = true
