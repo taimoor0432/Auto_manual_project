@@ -1,10 +1,12 @@
-v2.4
-text = SpideyHax Pubg Mobile 4.7.0, New Updates Coming Soon. Regarding @fatalgrid
-global = true
+v2.5
+text = SpideyHax PUBG Mobile V4.6.0
+global = false
 korea = true
 taiwan = true
 vietnam = true
-telegram = false
-telegramLink = https://t.me/SpideyHax
-telegramName = SpideyHax
+esp = true
+espaim = true
+telegram = true
+telegramLink = https://t.me/fatalgrid
+telegramName = FATALGRID
 end
