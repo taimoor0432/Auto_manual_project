@@ -1,12 +1,12 @@
-v2.8
-text = SpideyHax PUBG Mobile V4.7.0! Be Ready Girls & Boys.
+v2.9
+text = SpideyHax PUBG Mobile V4.7.0!
 global = true
 korea = true
 taiwan = true
 vietnam = true
 esp = true
 espaim = true
-telegram = true
+telegram = false
 telegramLink = https://t.me/fatalgrid
 telegramName = FATALGRID
 end
