@@ -1,12 +1,14 @@
-v3.4
-text = SpideyHax PUBG Mobile V4.7.0!
+libraries = 1.1
+notification = v1.1
+
+text = SpideyHax PUBG Mobile V4.6.0
 global = true
 korea = true
 taiwan = true
 vietnam = true
 esp = true
 espaim = true
-telegram = false
+telegram = true
 telegramLink = https://t.me/fatalgrid
 telegramName = FATALGRID
 end
