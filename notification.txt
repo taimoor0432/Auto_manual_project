@@ -1,14 +1,14 @@
-libraries = 1.6
-notification = v1.6
+libraries = 1.7
+notification = v1.7
 
-text = SpideyHax! Pubg Mobile V4.7.0 64Bit
+text = SpideyHax! Pubg Mobile V4.7.0
 global = true
 korea = true
 taiwan = true
 vietnam = true
 esp = true
 espaim = true
-telegram = true
+telegram = false
 telegramLink = https://t.me/fatalgrid
 telegramName = FATALGRID
 end
