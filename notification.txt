@@ -1,4 +1,4 @@
-v3.3
+v3.4
 text = SpideyHax PUBG Mobile V4.7.0!
 global = true
 korea = true
