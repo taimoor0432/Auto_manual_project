@@ -1,4 +1,4 @@
-libraries = 2.0
+libraries = 2.1
 notification = v2.0
 
 text = SpideyHax Pubg Mobile V4.7.0
