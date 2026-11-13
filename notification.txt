@@ -1,7 +1,7 @@
 libraries = 1.1
-notification = v1.1
+notification = v1.2
 
-text = SpideyHax PUBG Mobile V4.6.0
+text = SpideyHax PUBG Mobile V4.7.0 Updated. Play Safe, Don't Get Reported.
 global = true
 korea = true
 taiwan = true
