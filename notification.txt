@@ -1,5 +1,5 @@
-libraries = 2.4
-notification = v2.3
+libraries = 2.5
+notification = v2.5
 
 text = SpideyHax Pubg Mobile V4.7.0
 global = true
