@@ -1,9 +1,9 @@
-libraries = 2.2
-notification = v2.2
+libraries = 2.3
+notification = v2.3
 
 text = SpideyHax Pubg Mobile V4.7.0
 global = true
-korea = m
+korea = true
 taiwan = true
 vietnam = true
 esp = true
