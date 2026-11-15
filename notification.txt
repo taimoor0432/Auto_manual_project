@@ -1,5 +1,5 @@
-libraries = v2.6
-notification = v2.6
+libraries = v2.7
+notification = v2.7
 
 text = SpideyHax Pubg Mobile V4.7.0
 global = true
@@ -8,7 +8,7 @@ taiwan = true
 vietnam = true
 esp = true
 espaim = true
-telegram = true
+telegram = false
 telegramLink = https://t.me/fatalgrid
 telegramName = FATALGRID
 end
