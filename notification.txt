@@ -1,9 +1,9 @@
 libraries = v3.3
-notification = v3.3
+notification = v3.4
 
-text = SpideyHax Pubg Mobile V4.7.0
-global = true
-korea = true
+text = Play VIETNAM & TAIWAN version other version will be fixed soon.
+global = false
+korea = m
 taiwan = true
 vietnam = true
 esp = true
