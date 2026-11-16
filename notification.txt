@@ -1,5 +1,5 @@
-libraries = v4.4
-notification = v4.4
+libraries = v4.5
+notification = v4.5
 
 text = Wellcome Dear Users!
 global = true
