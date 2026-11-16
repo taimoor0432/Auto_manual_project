@@ -1,9 +1,9 @@
 libraries = v3.3
-notification = v3.4
+notification = v3.5
 
-text = Play VIETNAM & TAIWAN version other version will be fixed soon.
+text = Wellcome Dear Users! 
 global = false
-korea = m
+korea = true
 taiwan = true
 vietnam = true
 esp = true
