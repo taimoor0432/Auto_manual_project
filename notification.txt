@@ -1,7 +1,7 @@
-libraries = v3.9
-notification = v3.9
+libraries = v4.0
+notification = v4.0
 
-text = Wellcome Dear Users! Meow Gop Gop Gop
+text = Wellcome Dear Users!
 global = false
 korea = true
 taiwan = true
