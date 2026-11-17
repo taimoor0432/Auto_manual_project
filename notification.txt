@@ -3,7 +3,7 @@ notification = v4.8
 
 text = Wellcome Dear Users!
 global = true
-korea = true
+korea = m
 taiwan = true
 vietnam = true
 esp = true
