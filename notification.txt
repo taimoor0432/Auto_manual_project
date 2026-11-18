@@ -1,9 +1,9 @@
-libraries = v4.8
-notification = v4.8
+libraries = v4.9
+notification = v4.9
 
 text = Wellcome Dear Users!
-global = true
-korea = m
+global = false
+korea = true
 taiwan = true
 vietnam = true
 esp = true
