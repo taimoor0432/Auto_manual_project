@@ -1,7 +1,7 @@
-libraries = v5.0
-notification = v5.0
+libraries = v5.1
+notification = v5.1
 
-text = Wellcome Dear Users! Play Safe
+text = Assalam o alaikum - Peace be upon you!
 global = false
 korea = true
 taiwan = true
