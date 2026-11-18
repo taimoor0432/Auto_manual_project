@@ -1,7 +1,7 @@
-libraries = v4.9
-notification = v4.9
+libraries = v5.0
+notification = v5.0
 
-text = Wellcome Dear Users!
+text = Wellcome Dear Users! Play Safe
 global = false
 korea = true
 taiwan = true
