@@ -1,7 +1,8 @@
-libraries = v5.1
-notification = v5.1
+libraries = v5.2
+notification = v5.2
 
-text = Assalam o alaikum - Peace be upon you!
+text = Notifications : New Lucky 🥚Eggs
+Esp Has Been Added.
 global = false
 korea = true
 taiwan = true
