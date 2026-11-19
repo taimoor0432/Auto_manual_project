@@ -1,8 +1,7 @@
 libraries = v5.2
-notification = v5.2
+notification = v5.3
 
-text = Notifications : New Lucky 🥚Eggs
-Esp Has Been Added.
+text = New Lucky 🥚Eggs Location Spot Feature Added!
 global = false
 korea = true
 taiwan = true
