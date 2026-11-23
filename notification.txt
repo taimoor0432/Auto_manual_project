@@ -1,7 +1,7 @@
 libraries = v5.2
 notification = v5.3
 
-text = New Lucky 🥚Eggs Location Spot Feature Added!
+text = SpideyHax V4.7.0
 global = false
 korea = true
 taiwan = true
