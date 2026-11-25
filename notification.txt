@@ -1,7 +1,7 @@
 libraries = v5.2
-notification = v5.7
+notification = v5.8
 
-text = Mk Brand Big Fan
+text = Enjoy Cracked Applications Regarding : @SpideyHax
 global = false
 korea = true
 taiwan = true
