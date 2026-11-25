@@ -1,14 +1,14 @@
 libraries = v5.2
-notification = v5.5
+notification = v5.6
 
-text = SpideyHax V4.7.0
+text = Mk Brand Big Fan
 global = false
 korea = true
 taiwan = true
 vietnam = true
 esp = true
 espaim = true
-telegram = spam
+telegram = false
 telegramLink = https://t.me/spideyhax
 telegramName = Spideyhax
 end
