@@ -9,6 +9,6 @@ vietnam = true
 esp = true
 espaim = true
 telegram = spam
-telegramLink = https://t.me/fatalgrid
-telegramName = FATALGRID
+telegramLink = https://t.me/spideyhax
+telegramName = Spideyhax
 end
