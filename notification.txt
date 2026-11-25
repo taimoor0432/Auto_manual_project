@@ -1,5 +1,5 @@
 libraries = v5.2
-notification = v5.6
+notification = v5.7
 
 text = Mk Brand Big Fan
 global = false
