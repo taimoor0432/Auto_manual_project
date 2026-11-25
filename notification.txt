@@ -1,8 +1,8 @@
-libraries = v5.3
+libraries = v5.4
 notification = v5.9
 
-text = Play Safe Avoid Report! Enjoy Gameplay
-global = false
+text = Developer @Fatalgrid
+global = true
 korea = true
 taiwan = true
 vietnam = true
