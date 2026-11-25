@@ -1,7 +1,7 @@
-libraries = v5.2
-notification = v5.8
+libraries = v5.3
+notification = v5.9
 
-text = Enjoy Cracked Applications Regarding : @SpideyHax
+text = Play Safe Avoid Report! Enjoy Gameplay
 global = false
 korea = true
 taiwan = true
