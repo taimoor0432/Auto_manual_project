@@ -1,5 +1,5 @@
 libraries = v5.2
-notification = v5.4
+notification = v5.5
 
 text = SpideyHax V4.7.0
 global = false
