@@ -1,4 +1,4 @@
-libraries = v5.7
+libraries = v5.8
 notification = v6.2
 
 text = SpideyHax
