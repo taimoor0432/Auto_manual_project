@@ -1,7 +1,7 @@
-libraries = v5.4
-notification = v5.9
+libraries = v5.5
+notification = v6.0
 
-text = Developer @Fatalgrid
+text = SpideyHax
 global = true
 korea = true
 taiwan = true
