@@ -1,7 +1,7 @@
-libraries = v5.8
-notification = v6.2
+libraries = v5.9
+notification = v6.3
 
-text = SpideyHax
+text = SpideyHax 4.7.0
 global = true
 korea = true
 taiwan = true
